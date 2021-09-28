@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-![info](https://github-readme-stats.vercel.app/api?username=hominsu&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+![info](https://github-readme-stats.vercel.app/api?username=hominsu&show_icons=true&count_private=true&hide=prs&theme=vue)
+
+### Platform && Tools
+[![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
+[![](https://img.shields.io/badge/OS-Ubuntu%20Linux-33aadd?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://www.ubuntu.org/)
+[![](https://img.shields.io/badge/macOS-Hackintosh-33aadd?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
 
 <!--
 **hominsu/hominsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
