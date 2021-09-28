@@ -2,7 +2,7 @@
 
 You can find me on:
 
-* [My website: hauhau.cn](https://hauhau.cn/)
+* [My website: hauhau.cn](https://www.hauhau.cn//)
 * [GitHub as @hominsu (you are here)](https://github.com/hominsu)
 
 <!--
