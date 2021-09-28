@@ -1,6 +1,9 @@
-### Hi there 👋
+### Hi I'm [@hominsu](https://github.com/hominsu) 👋
 
-![info](https://github-readme-stats.vercel.app/api?username=hominsu&show_icons=true&count_private=true&hide=prs&theme=vue)
+You can find me on:
+
+* [My website: hauhau.cn](https://hauhau.cn/)
+* [GitHub as @hominsu (you are here)](https://github.com/hominsu)
 
 <!--
 **hominsu/hominsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +18,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![info](https://github-readme-stats.vercel.app/api?username=hominsu&show_icons=true&count_private=true&hide=prs&theme=vue)
+
 -->
