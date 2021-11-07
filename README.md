@@ -5,6 +5,10 @@ You can find me on:
 * [My website: hauhau.cn](https://www.hauhau.cn//)
 * [GitHub as @hominsu (you are here)](https://github.com/hominsu)
 
+<a href="https://github.com/hominsu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hominsu&layout=compact" />
+</a>
+
 <!--
 **hominsu/hominsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
