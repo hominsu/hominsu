@@ -2,8 +2,9 @@
 
 You can find me on:
 
-* [My website: hauhau.cn](https://www.hauhau.cn//)
+* [My website: hauhau.cn](https://www.hauhau.cn)
 * [GitHub as @hominsu (you are here)](https://github.com/hominsu)
+* [Gitee as @hominsu](https://gitee.com/hominsu)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hominsu&layout=compact)](https://github.com/hominsu)
 
