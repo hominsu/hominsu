@@ -6,6 +6,10 @@ You can find me on:
 * GitHub as [@hominsu](https://github.com/hominsu) (you are here)
 * Gitee as [@hominsu](https://gitee.com/hominsu)
 
+My Resume/CV:
+
+* [zh_CN](https://image.hauhau.cn/resume/HominSu_s_Elegant_LaTeX_Resume.pdf)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hominsu&layout=compact)](https://github.com/hominsu)
 
 <!--
