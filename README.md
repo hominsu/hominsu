@@ -8,7 +8,7 @@ You can find me on:
 
 My Resume/CV:
 
-* [zh_CN](https://image.hauhau.cn/resume/HominSu_s_Elegant_LaTeX_Resume.pdf)
+* zh_CN ([view](https://www.hauhau.cn/resume/) | [dowmload](https://image.hauhau.cn/resume/HominSu_s_Elegant_LaTeX_Resume.pdf))
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hominsu&layout=compact)](https://github.com/hominsu)
 
