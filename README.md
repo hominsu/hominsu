@@ -20,7 +20,7 @@ My Resume/CV:
 
 ## Languages used:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hominsu&layout=compact&theme=dark)](https://github.com/hominsu)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hominsu&layout=compact)](https://github.com/hominsu)
 
 ## Contact me
 <a href="mailto:is.homin.su@gmail.com"><img src="https://img.shields.io/badge/Gmail-855858?style=for-the-badge&logo=gmail&logoColor=white"></a>
