@@ -1,4 +1,4 @@
-# Hi I'm [@hominsu](https://github.com/hominsu) 👋
+![hominsu](https://user-images.githubusercontent.com/14991225/169000499-73edb2ae-4fdb-4d5c-aad5-1a13a02c722e.jpg)
 
 I'm a junior pursuing bachelor's degree in cyberspace security. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Backend Development 🕸️, Data Science 🤓 and working on Data structures and algorithms.
 
