@@ -31,7 +31,6 @@ My Resume/CV:
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-
 - [二进制中 1 的个数 ——《C/C++ 位运算黑科技 03》](https://www.hauhau.cn/article/438146ef.html)
 - [2 的幂次方 ——《C/C++ 位运算黑科技 02》](https://www.hauhau.cn/article/1ddd54b8.html)
 - [绝对值 ——《C/C++ 位运算黑科技 01》](https://www.hauhau.cn/article/e13e6093.html)
