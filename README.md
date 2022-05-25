@@ -24,10 +24,26 @@ My Resume/CV:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-
+ 
 | <a href="https://github.com/hominsu"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hominsu&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="HominSu's github stats" /></a> | <a href="https://github.com/hominsu"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hominsu&layout=compact&theme=buefy&hide_border=true&hide=Stylus,EJS" alt="Anurag's Top Langs" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
+
+<!-- <details>
+  <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
+  <br/>
+  <a href='https://profile.codersrank.io/user/hominsu/'>
+  <img src='https://cr-skills-chart-widget.azurewebsites.net/api/api?username=hominsu&padding=30'>
+  </a>
+</details>
+
+<details>
+  <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
+  <br/>
+  <a href='https://profile.codersrank.io/user/gautamkrishnar/'>
+  <img src='https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=hominsu&padding=30'>
+  </a>
+</details> -->
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
