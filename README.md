@@ -107,4 +107,4 @@ Languages and tools I use
 
 ### <b>Thanks for checking out my profile, have a great day. </b><br>
 
-### <em><b>I love connecting with different people</b> so if you want to say <b>hi, i'd be happy to connect:)</em></br>
+### <em><b>I love connecting with different people</b> so if you want to say <b>hi, i'd be happy to connect:)</b></em>
