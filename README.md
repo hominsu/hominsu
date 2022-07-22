@@ -15,10 +15,6 @@ You can find me on:
 * GitHub as [@hominsu](https://github.com/hominsu) (you are here)
 * Gitee as [@hominsu](https://gitee.com/hominsu)
 
-My Resume/CV:
-
-* zh_CN ([view](https://www.hauhau.cn/resume/) | [dowmload](https://image.hauhau.cn/resume/HominSu_s_Elegant_LaTeX_Resume.pdf))
-
 My GitHub Stats
 
 | <a href="https://github.com/hominsu"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hominsu&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="HominSu's github stats" /></a> | <a href="https://github.com/hominsu"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hominsu&layout=compact&theme=buefy&hide_border=true&hide=Stylus,EJS" alt="Anurag's Top Langs" /></a> |
