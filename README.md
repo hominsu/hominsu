@@ -1,9 +1,11 @@
 <p align="center">
   <samp>
     <a style="text-decoration:none;">powerful + dangerous</a> .
-    <a style="text-decoration:none;">zero diet coke</a>
+    <a style="text-decoration:none;">zero diet coke</a> .
+    <a style="text-decoration:none;">early bird</a>
   </samp>
 </p>
+
 
 <p align="center">
   <a href="https://www.hauhau.cn" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Blog-%23FF4088.svg?&style=for-the-badge&logo=hugo&logoColor=white"></a>
