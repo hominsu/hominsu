@@ -1,7 +1,7 @@
 <p align="center">
   <samp>
-    <a style="text-decoration:none;">powerful + dangerous</a> .
-    <a style="text-decoration:none;">zero diet coke</a> .
+    <a style="text-decoration:none;">powerful + dangerous</a> ·
+    <a style="text-decoration:none;">zero diet coke</a> ·
     <a style="text-decoration:none;">early bird</a>
   </samp>
 </p>
